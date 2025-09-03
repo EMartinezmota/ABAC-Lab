@@ -26,6 +26,14 @@ def read_entire_file(filename):
     
     return
 
+def file_to_text(filename):
+    temp_string = ""
+
+    with open (filename, "r", encoding="utf-8") as f:
+        temp_string += f.read().strip()
+    
+    return temp_string
+
 #removed all calls, I just copied the data set and removed the rules.
 def read_until_marker(filename, stop_marker):
     lines = []

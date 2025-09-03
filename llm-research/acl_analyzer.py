@@ -48,4 +48,10 @@ def compare_acl (acl1, acl2):
     lines.extend(sorted(only_in_acl2))
     lines.append("")
     lines.append(f"Total different lines: {len(only_in_acl1 ^ only_in_acl2)}")
-    return lines
+
+    #if there is a 100% match then lists that have unique ACL line will return true
+    complete_match = False
+    if(len(only_in_acl1) == 0 or len(only_in_acl2) == 0):
+        complete_match = True
+
+    return lines, complete_match

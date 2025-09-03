@@ -1,544 +1,652 @@
-oncDoc2, oncPat1nursingItem, addItem
-oncDoc4, carPat1noteItem, addItem
-carDoc1, carPat2nursingItem, addNote
-doc2, carPat2carItem, addNote
-oncAgent2, carPat1nursingItem, addNote
-anesDoc1, oncPat1HR, addNote
-oncPat1, carPat1carItem, addNote
-oncDoc3, oncPat1nursingItem, addItem
-oncNurse1, oncPat2HR, addItem
-oncDoc3, carPat1carItem, addItem
-oncDoc2, carPat2carItem, addItem
-oncNurse1, carPat2nursingItem, addItem
-carPat1, carPat1carItem, addNote
-carAgent1, oncPat2HR, addNote
-doc2, oncPat1oncItem, addNote
-oncPat2, carPat2HR, addNote
-oncDoc3, oncPat2oncItem, addNote
-carPat1, carPat1nursingItem, addNote
-doc1, carPat1noteItem, addNote
-anesDoc1, oncPat2oncItem, addNote
-carNurse2, oncPat1HR, addItem
-carNurse2, carPat2carItem, addNote
-carDoc1, oncPat2oncItem, addNote
-oncDoc3, carPat2noteItem, addNote
-carNurse2, oncPat2nursingItem, addItem
-carAgent2, oncPat2oncItem, addNote
-oncDoc4, oncPat2noteItem, addItem
-oncDoc1, oncPat2HR, addItem
-oncDoc1, carPat2carItem, addItem
-oncDoc1, oncPat2nursingItem, addNote
-oncPat1, carPat1HR, addNote
-doc2, oncPat1HR, addNote
-carDoc2, carPat1noteItem, addItem
-doc2, carPat1noteItem, addItem
-oncNurse1, oncPat1HR, addNote
-doc2, oncPat2HR, addItem
-carNurse2, carPat1nursingItem, addNote
-oncNurse2, carPat1noteItem, addItem
-carDoc1, carPat1noteItem, addItem
-carNurse1, carPat1noteItem, addNote
-carAgent1, oncPat1oncItem, addNote
-anesDoc1, carPat1noteItem, addItem
-oncDoc1, carPat2noteItem, addItem
-oncDoc2, oncPat2HR, addNote
-oncNurse2, carPat2carItem, addNote
-carAgent2, carPat1carItem, addNote
-oncDoc4, carPat1carItem, addNote
-oncDoc3, carPat2noteItem, addItem
-oncPat2, oncPat2nursingItem, addNote
-doc1, carPat2nursingItem, addNote
-carDoc2, oncPat2oncItem, addItem
-carDoc2, oncPat2nursingItem, addItem
-doc1, oncPat1nursingItem, addItem
-carPat1, carPat2nursingItem, addNote
-oncAgent1, carPat1nursingItem, addNote
-anesDoc1, carPat1carItem, addNote
-doc1, carPat1nursingItem, addItem
-carNurse1, oncPat2nursingItem, addItem
-carNurse2, oncPat1nursingItem, addNote
-oncNurse2, oncPat1HR, addItem
-oncDoc1, oncPat2oncItem, addItem
-anesDoc1, carPat1nursingItem, addNote
-carPat2, oncPat1HR, addNote
-carPat2, carPat1noteItem, addNote
-carNurse1, oncPat2oncItem, addItem
-oncDoc2, carPat1noteItem, addNote
-oncDoc1, carPat1carItem, addNote
-carDoc2, carPat1HR, addNote
-oncAgent2, carPat1carItem, addNote
-oncDoc3, oncPat2oncItem, addItem
-oncDoc4, oncPat1noteItem, addItem
-doc1, oncPat1nursingItem, addNote
-oncDoc4, oncPat1oncItem, addNote
-oncAgent1, oncPat2nursingItem, addNote
-carPat1, oncPat1nursingItem, addNote
-oncDoc3, carPat1carItem, addNote
-oncPat2, carPat2carItem, addNote
-oncNurse1, carPat2nursingItem, addNote
-carDoc2, carPat2carItem, addNote
-anesDoc1, carPat2HR, addNote
-oncNurse2, carPat1carItem, addItem
-oncAgent2, carPat2carItem, addNote
-carAgent2, oncPat1noteItem, addNote
-anesDoc1, carPat1noteItem, addNote
-carDoc1, oncPat2HR, addNote
-carAgent2, oncPat2noteItem, addNote
-oncDoc3, carPat1noteItem, addNote
-carPat2, carPat1HR, addNote
-carDoc2, carPat2HR, addNote
-carPat1, oncPat2HR, addNote
-oncNurse2, carPat2carItem, addItem
-carDoc1, carPat2carItem, addNote
-oncDoc4, oncPat2noteItem, addNote
-anesDoc1, oncPat2noteItem, addItem
-oncNurse2, oncPat2HR, addItem
-carDoc2, carPat1noteItem, addNote
-oncDoc3, carPat2carItem, addNote
-carDoc2, carPat2noteItem, addItem
-anesDoc1, oncPat2HR, addItem
-carDoc1, oncPat2noteItem, addItem
-oncDoc4, carPat1HR, addNote
-oncDoc1, oncPat2oncItem, addNote
-carNurse2, oncPat1noteItem, addItem
-oncDoc2, oncPat1HR, addNote
-carDoc2, carPat2noteItem, addNote
-oncPat1, oncPat1HR, addNote
-oncDoc1, oncPat1noteItem, addItem
-carDoc1, carPat1HR, addNote
-oncNurse2, carPat2HR, addItem
-doc2, carPat1HR, addItem
-carPat2, carPat2nursingItem, addNote
-oncDoc2, oncPat1oncItem, addNote
-carNurse1, carPat2nursingItem, addNote
-oncDoc3, oncPat2HR, addNote
-carPat1, carPat2carItem, addNote
-carDoc2, carPat2carItem, addItem
-doc1, carPat1nursingItem, addNote
-doc2, carPat1nursingItem, addNote
-oncDoc3, oncPat2nursingItem, addItem
-carDoc1, carPat2HR, addNote
-oncNurse2, oncPat2nursingItem, addNote
-oncDoc3, carPat1nursingItem, addItem
-carNurse1, oncPat1noteItem, addItem
-anesDoc1, carPat2carItem, addItem
-oncDoc1, carPat2noteItem, addNote
-oncDoc2, carPat1HR, addNote
-oncPat2, oncPat1HR, addNote
-doc2, carPat2nursingItem, addNote
-oncPat2, carPat1carItem, addNote
-oncDoc2, oncPat1noteItem, addItem
-carAgent2, oncPat1HR, addNote
-oncAgent1, oncPat1HR, addNote
-oncNurse1, oncPat1nursingItem, addNote
-carAgent1, carPat2noteItem, addNote
-oncDoc3, carPat1noteItem, addItem
-doc1, oncPat2noteItem, addItem
-oncNurse1, oncPat2noteItem, addNote
-doc2, carPat2noteItem, addNote
-carPat1, carPat2HR, addNote
-doc2, oncPat2nursingItem, addItem
-oncPat1, carPat1noteItem, addNote
-doc1, carPat1HR, addItem
-carNurse1, carPat2carItem, addNote
-doc1, oncPat1noteItem, addNote
-carAgent2, carPat2nursingItem, addNote
-oncAgent1, carPat2noteItem, addNote
-oncNurse2, oncPat1nursingItem, addItem
-oncDoc1, carPat2carItem, addNote
-oncDoc3, carPat2nursingItem, addNote
-carPat1, oncPat1oncItem, addNote
-oncNurse1, oncPat1nursingItem, addItem
-carNurse2, carPat1noteItem, addNote
-oncPat1, oncPat1noteItem, addNote
-oncDoc3, oncPat2HR, addItem
-oncPat2, oncPat1noteItem, addNote
-carPat1, oncPat2oncItem, addNote
-doc1, carPat2noteItem, addItem
-oncNurse1, carPat1nursingItem, addNote
-oncNurse2, oncPat1noteItem, addNote
-oncNurse1, carPat2HR, addItem
-oncDoc2, carPat1nursingItem, addItem
-carPat2, oncPat2nursingItem, addNote
-oncDoc3, oncPat1HR, addNote
-oncAgent2, oncPat1oncItem, addNote
-oncDoc1, carPat2HR, addItem
-oncDoc3, oncPat1noteItem, addNote
-doc1, carPat2carItem, addItem
-anesDoc1, carPat2noteItem, addItem
-oncDoc1, oncPat1nursingItem, addItem
-doc1, oncPat2oncItem, addItem
-carDoc1, oncPat1HR, addNote
-oncDoc2, oncPat1noteItem, addNote
-carDoc2, carPat1nursingItem, addNote
-carAgent1, carPat1carItem, addNote
-carNurse1, carPat1noteItem, addItem
-carNurse1, oncPat1nursingItem, addNote
-oncDoc2, oncPat2nursingItem, addNote
-carPat2, oncPat1noteItem, addNote
-doc1, carPat2noteItem, addNote
-oncDoc4, oncPat1HR, addNote
-carDoc2, oncPat1noteItem, addNote
-anesDoc1, carPat1carItem, addItem
-doc2, oncPat2HR, addNote
-carPat1, carPat2noteItem, addNote
-oncDoc1, oncPat1oncItem, addItem
-doc1, oncPat2nursingItem, addNote
-doc1, oncPat2noteItem, addNote
-carNurse2, carPat2carItem, addItem
-carDoc2, oncPat2nursingItem, addNote
-doc2, carPat2carItem, addItem
-carNurse2, carPat1HR, addNote
-oncNurse1, carPat1nursingItem, addItem
-carPat2, carPat1carItem, addNote
-carDoc2, carPat1carItem, addNote
-carDoc2, oncPat2HR, addNote
-oncNurse1, oncPat2noteItem, addItem
-oncPat2, oncPat1nursingItem, addNote
-doc2, oncPat2noteItem, addNote
-carAgent1, oncPat1noteItem, addNote
-oncAgent1, carPat1noteItem, addNote
-oncPat1, carPat2HR, addNote
-oncAgent1, oncPat1nursingItem, addNote
-oncAgent2, oncPat2oncItem, addNote
-doc1, carPat1carItem, addNote
-carDoc2, oncPat1oncItem, addItem
-oncNurse2, carPat1HR, addItem
-oncPat2, oncPat2HR, addNote
-doc1, carPat2HR, addNote
-carNurse2, oncPat2noteItem, addNote
-carDoc1, carPat2HR, addItem
-carPat2, carPat2HR, addNote
-oncNurse1, carPat2noteItem, addItem
-oncDoc4, carPat1HR, addItem
-oncDoc2, oncPat2HR, addItem
-carDoc2, oncPat1nursingItem, addItem
-carNurse2, carPat2HR, addNote
-oncDoc4, oncPat2nursingItem, addNote
-carDoc2, oncPat2noteItem, addItem
-oncDoc2, carPat2carItem, addNote
-oncNurse2, carPat2noteItem, addNote
-oncNurse2, oncPat2HR, addNote
-oncDoc4, oncPat1nursingItem, addItem
-oncNurse1, carPat1noteItem, addItem
-oncDoc3, carPat1nursingItem, addNote
-carDoc1, oncPat2nursingItem, addItem
-oncPat1, oncPat1oncItem, addNote
-doc1, oncPat1noteItem, addItem
-carNurse1, oncPat1oncItem, addItem
-carDoc1, oncPat1oncItem, addItem
-oncPat1, oncPat2oncItem, addNote
-oncNurse2, oncPat2oncItem, addNote
-oncAgent2, oncPat2HR, addNote
-oncAgent2, oncPat2nursingItem, addNote
-oncNurse2, carPat1nursingItem, addItem
-oncDoc1, oncPat1HR, addNote
-anesDoc1, carPat2HR, addItem
-oncDoc4, carPat2carItem, addNote
-oncPat1, oncPat2HR, addNote
-carDoc1, oncPat1oncItem, addNote
-oncPat1, carPat2carItem, addNote
-oncNurse2, oncPat1HR, addNote
-carNurse1, carPat2noteItem, addItem
-carDoc1, oncPat2oncItem, addItem
-oncDoc2, oncPat1nursingItem, addNote
-oncNurse1, oncPat2nursingItem, addItem
-carNurse1, carPat2HR, addNote
-carPat1, oncPat1HR, addNote
-anesDoc1, oncPat2oncItem, addItem
-carAgent1, carPat1HR, addNote
-oncNurse1, carPat1carItem, addNote
-doc2, carPat2HR, addItem
-doc2, oncPat1nursingItem, addNote
-oncPat2, carPat1noteItem, addNote
-oncNurse1, carPat2carItem, addItem
-oncDoc3, carPat2carItem, addItem
-anesDoc1, oncPat1oncItem, addNote
-carNurse1, oncPat1HR, addNote
-carPat1, carPat1noteItem, addNote
-carPat2, oncPat2noteItem, addNote
-oncDoc1, oncPat1nursingItem, addNote
-oncDoc2, carPat2nursingItem, addNote
-oncPat1, oncPat2noteItem, addNote
-doc1, oncPat2oncItem, addNote
-carNurse1, oncPat2HR, addItem
-oncDoc3, oncPat1nursingItem, addNote
-oncPat1, carPat2nursingItem, addNote
-carDoc1, carPat1nursingItem, addNote
-oncDoc1, carPat1carItem, addItem
-oncDoc2, oncPat2noteItem, addNote
-anesDoc1, carPat2noteItem, addNote
-oncDoc4, oncPat1HR, addItem
-oncAgent2, oncPat2noteItem, addNote
-carNurse1, oncPat1oncItem, addNote
-oncDoc1, carPat2HR, addNote
-carAgent2, carPat1nursingItem, addNote
-carAgent2, oncPat1oncItem, addNote
-oncDoc2, oncPat1HR, addItem
-carDoc2, oncPat1HR, addItem
-doc2, oncPat1HR, addItem
-carDoc1, oncPat1HR, addItem
-oncAgent2, carPat1HR, addNote
-carAgent1, carPat1noteItem, addNote
-carDoc2, oncPat1nursingItem, addNote
-carAgent2, oncPat2HR, addNote
-oncAgent1, carPat1HR, addNote
-carDoc2, oncPat2oncItem, addNote
-oncDoc4, oncPat1noteItem, addNote
-carAgent1, oncPat2oncItem, addNote
-anesDoc1, carPat2nursingItem, addItem
-carNurse2, oncPat1oncItem, addNote
-oncPat2, carPat2nursingItem, addNote
-oncNurse1, oncPat1noteItem, addItem
-oncDoc4, carPat1carItem, addItem
-oncAgent1, carPat2nursingItem, addNote
-carPat2, oncPat2oncItem, addNote
-oncDoc3, carPat2HR, addNote
-carNurse1, oncPat2noteItem, addNote
-oncAgent2, carPat2HR, addNote
-oncDoc4, carPat1noteItem, addNote
-oncNurse2, carPat2HR, addNote
-carNurse2, carPat2noteItem, addNote
-oncDoc1, carPat2nursingItem, addItem
-carDoc1, carPat2noteItem, addItem
-oncDoc4, carPat2noteItem, addItem
-doc1, carPat2HR, addItem
-carDoc1, carPat1noteItem, addNote
-oncAgent1, oncPat2noteItem, addNote
-oncNurse2, oncPat2nursingItem, addItem
-carDoc2, carPat2nursingItem, addItem
-carDoc1, carPat2nursingItem, addItem
-oncDoc2, carPat1carItem, addItem
-oncDoc3, oncPat1oncItem, addItem
-doc2, carPat2HR, addNote
-carDoc1, carPat1HR, addItem
-carNurse2, carPat1nursingItem, addItem
-doc1, carPat2carItem, addNote
-carNurse2, carPat1carItem, addNote
-carNurse2, oncPat2oncItem, addNote
-oncDoc1, carPat1noteItem, addItem
-oncNurse1, oncPat1noteItem, addNote
-anesDoc1, oncPat1nursingItem, addItem
-carAgent2, carPat1HR, addNote
-carDoc1, carPat1carItem, addItem
-oncDoc2, carPat2HR, addItem
-anesDoc1, carPat1HR, addItem
-oncNurse1, carPat1noteItem, addNote
-carNurse2, carPat2noteItem, addItem
-doc1, carPat1noteItem, addItem
-carPat2, carPat2carItem, addNote
-oncNurse2, oncPat1nursingItem, addNote
-oncDoc1, oncPat1HR, addItem
-anesDoc1, carPat1nursingItem, addItem
-carAgent2, carPat2HR, addNote
-oncDoc3, oncPat1oncItem, addNote
-carDoc2, oncPat1oncItem, addNote
-oncDoc4, carPat2HR, addItem
-oncNurse1, oncPat2nursingItem, addNote
-carNurse2, oncPat2nursingItem, addNote
-oncPat1, carPat2noteItem, addNote
-carNurse1, carPat1nursingItem, addNote
-oncNurse2, oncPat1oncItem, addNote
-carDoc2, carPat2HR, addItem
-oncNurse1, carPat2noteItem, addNote
-doc2, carPat1HR, addNote
-carDoc2, carPat1nursingItem, addItem
-doc1, carPat2nursingItem, addItem
-oncNurse2, oncPat1oncItem, addItem
-anesDoc1, oncPat1noteItem, addNote
-doc2, oncPat1nursingItem, addItem
-carNurse2, carPat2nursingItem, addNote
-anesDoc1, oncPat1nursingItem, addNote
-oncNurse1, carPat1HR, addNote
-anesDoc1, carPat2nursingItem, addNote
-carNurse1, carPat1HR, addItem
-carDoc1, oncPat2nursingItem, addNote
-carPat2, oncPat2HR, addNote
-doc1, oncPat1oncItem, addItem
-carDoc2, oncPat2noteItem, addNote
-oncNurse1, oncPat1HR, addItem
-doc2, oncPat1noteItem, addItem
-carNurse2, oncPat2HR, addItem
-oncDoc1, oncPat1oncItem, addNote
-oncDoc3, carPat1HR, addItem
-doc1, carPat1HR, addNote
-doc2, oncPat2noteItem, addItem
-oncDoc4, carPat1nursingItem, addNote
-doc2, carPat1carItem, addNote
-oncNurse1, carPat2HR, addNote
-carNurse1, oncPat2HR, addNote
-oncPat2, carPat1nursingItem, addNote
-carPat1, oncPat2noteItem, addNote
-oncDoc2, oncPat2nursingItem, addItem
-oncNurse2, oncPat2noteItem, addItem
-carDoc2, carPat1carItem, addItem
-oncNurse2, carPat1carItem, addNote
-oncDoc4, carPat2HR, addNote
-doc1, oncPat2HR, addNote
-carNurse2, oncPat2oncItem, addItem
-carNurse1, carPat2nursingItem, addItem
-carAgent2, carPat2carItem, addNote
-oncDoc4, carPat2carItem, addItem
-carNurse1, oncPat2oncItem, addNote
-doc2, oncPat1oncItem, addItem
-oncPat1, oncPat2nursingItem, addNote
-carDoc2, oncPat2HR, addItem
-carNurse1, carPat2carItem, addItem
-oncAgent1, carPat1carItem, addNote
-doc1, oncPat1HR, addNote
-oncDoc4, oncPat2HR, addItem
-carPat1, oncPat2nursingItem, addNote
-carDoc1, oncPat1noteItem, addNote
-doc1, oncPat2nursingItem, addItem
-doc2, carPat2nursingItem, addItem
-oncAgent2, carPat2nursingItem, addNote
-carNurse2, oncPat2HR, addNote
-oncNurse1, oncPat2HR, addNote
-carDoc2, carPat2nursingItem, addNote
-oncDoc3, carPat2HR, addItem
-oncDoc1, carPat1HR, addItem
-oncAgent1, carPat2HR, addNote
-oncDoc1, oncPat2noteItem, addItem
-carNurse2, carPat1noteItem, addItem
-carNurse2, oncPat1noteItem, addNote
-doc2, oncPat2oncItem, addNote
-oncPat2, oncPat2noteItem, addNote
-anesDoc1, oncPat2nursingItem, addItem
-oncDoc2, carPat1noteItem, addItem
-oncDoc1, oncPat2noteItem, addNote
-carDoc1, oncPat2noteItem, addNote
-oncDoc3, carPat1HR, addNote
-oncNurse2, carPat1nursingItem, addNote
-oncDoc4, carPat1nursingItem, addItem
-oncDoc2, oncPat2oncItem, addNote
-anesDoc1, oncPat1HR, addItem
-carPat2, oncPat1oncItem, addNote
-carPat2, oncPat1nursingItem, addNote
-oncAgent2, oncPat1HR, addNote
-carAgent1, oncPat1HR, addNote
-oncNurse2, carPat2noteItem, addItem
-oncNurse2, oncPat2oncItem, addItem
-oncNurse2, carPat1HR, addNote
-anesDoc1, carPat2carItem, addNote
-oncNurse1, carPat1carItem, addItem
-oncAgent1, oncPat1oncItem, addNote
-oncDoc3, carPat2nursingItem, addItem
-oncDoc1, carPat1nursingItem, addItem
-doc2, carPat1nursingItem, addItem
-carAgent2, carPat2noteItem, addNote
-carAgent2, oncPat2nursingItem, addNote
-oncDoc2, oncPat2oncItem, addItem
-carNurse1, carPat2HR, addItem
-doc1, carPat1carItem, addItem
-carPat2, carPat1nursingItem, addNote
-doc1, oncPat1oncItem, addNote
-carNurse2, carPat2nursingItem, addItem
-carNurse1, oncPat1HR, addItem
-oncDoc2, oncPat1oncItem, addItem
-oncDoc3, oncPat1HR, addItem
-carNurse1, carPat1carItem, addItem
-oncNurse1, carPat1HR, addItem
-carDoc1, oncPat1nursingItem, addItem
-oncAgent2, oncPat1noteItem, addNote
-carNurse1, oncPat2noteItem, addItem
-doc2, carPat2noteItem, addItem
-anesDoc1, oncPat2HR, addNote
-oncAgent1, oncPat2HR, addNote
-oncDoc4, oncPat2HR, addNote
-anesDoc1, oncPat2nursingItem, addNote
-carDoc1, carPat1nursingItem, addItem
-oncDoc2, carPat2HR, addNote
-carAgent1, oncPat2nursingItem, addNote
-doc1, oncPat2HR, addItem
-oncDoc4, carPat2nursingItem, addNote
-carDoc2, oncPat1HR, addNote
-carAgent1, carPat1nursingItem, addNote
-oncNurse2, carPat1noteItem, addNote
-carNurse1, carPat2noteItem, addNote
-oncDoc4, carPat2noteItem, addNote
-carDoc1, carPat1carItem, addNote
-oncNurse2, oncPat1noteItem, addItem
-carDoc1, oncPat1nursingItem, addNote
-oncNurse1, oncPat1oncItem, addItem
-oncDoc1, oncPat1noteItem, addNote
-anesDoc1, oncPat1oncItem, addItem
-carPat1, carPat1HR, addNote
-carAgent1, carPat2HR, addNote
-carNurse1, carPat1carItem, addNote
-oncDoc2, carPat1HR, addItem
-oncDoc1, carPat1nursingItem, addNote
-oncDoc2, carPat1carItem, addNote
-carDoc1, oncPat1noteItem, addItem
-oncDoc3, oncPat1noteItem, addItem
-oncDoc2, oncPat2noteItem, addItem
-oncDoc1, carPat1noteItem, addNote
-oncNurse1, carPat2carItem, addNote
-oncNurse2, carPat2nursingItem, addNote
-oncPat2, oncPat2oncItem, addNote
-doc2, oncPat2oncItem, addItem
-doc1, oncPat1HR, addItem
-carNurse1, oncPat1noteItem, addNote
-carNurse2, oncPat1nursingItem, addItem
-oncDoc1, carPat2nursingItem, addNote
-carAgent2, carPat1noteItem, addNote
-oncAgent1, carPat2carItem, addNote
-oncDoc4, carPat2nursingItem, addItem
-doc2, oncPat1noteItem, addNote
-oncDoc1, oncPat2HR, addNote
-oncAgent1, oncPat2oncItem, addNote
-anesDoc1, oncPat2noteItem, addNote
-carAgent1, carPat2nursingItem, addNote
-carAgent1, carPat2carItem, addNote
-oncNurse1, oncPat2oncItem, addNote
-carAgent1, oncPat1nursingItem, addNote
-carNurse2, carPat1carItem, addItem
-oncDoc3, oncPat2noteItem, addNote
-oncPat2, carPat2noteItem, addNote
-carPat1, oncPat1noteItem, addNote
-carNurse1, carPat1nursingItem, addItem
-oncPat2, oncPat1oncItem, addNote
-oncNurse1, oncPat1oncItem, addNote
-oncAgent2, carPat2noteItem, addNote
-oncPat2, carPat1HR, addNote
-carNurse2, carPat1HR, addItem
-carDoc2, carPat1HR, addItem
-carAgent2, oncPat1nursingItem, addNote
-doc2, oncPat2nursingItem, addNote
-carDoc2, oncPat1noteItem, addItem
-oncDoc2, carPat2noteItem, addNote
-anesDoc1, oncPat1noteItem, addItem
-oncPat1, oncPat1nursingItem, addNote
-carNurse1, oncPat1nursingItem, addItem
-carNurse2, oncPat2noteItem, addItem
-oncNurse2, oncPat2noteItem, addNote
-oncDoc2, carPat2nursingItem, addItem
-carDoc1, carPat2noteItem, addNote
-carPat2, carPat2noteItem, addNote
-anesDoc1, carPat1HR, addNote
-carNurse2, oncPat1HR, addNote
-oncDoc1, carPat1HR, addNote
-oncDoc4, oncPat1nursingItem, addNote
-doc2, carPat1carItem, addItem
-oncNurse2, carPat2nursingItem, addItem
-carDoc1, carPat2carItem, addItem
-oncDoc3, oncPat2noteItem, addItem
-carAgent1, oncPat2noteItem, addNote
-carNurse2, carPat2HR, addItem
-oncDoc4, oncPat1oncItem, addItem
-carDoc1, oncPat2HR, addItem
-oncDoc4, oncPat2oncItem, addItem
-oncPat1, carPat1nursingItem, addNote
-oncDoc4, oncPat2oncItem, addNote
-carNurse1, oncPat2nursingItem, addNote
-oncDoc1, oncPat2nursingItem, addItem
-oncAgent2, oncPat1nursingItem, addNote
-oncAgent2, carPat1noteItem, addNote
-oncDoc4, oncPat2nursingItem, addItem
-oncDoc3, oncPat2nursingItem, addNote
-oncAgent1, oncPat1noteItem, addNote
-doc2, carPat1noteItem, addNote
-carNurse2, oncPat1oncItem, addItem
-oncNurse1, oncPat2oncItem, addItem
-oncDoc2, carPat2noteItem, addItem
-carNurse1, carPat1HR, addNote
-oncDoc2, carPat1nursingItem, addNote
+oncDoc4, carPat2carItem, type [ {HR}
+anesDoc1, carPat1carItem, topics ] {note}
+carNurse1, carPat2nursingItem, type [ {HR}
+oncNurse1, oncPat2nursingItem, topics ] {nursing}
+carNurse2, oncPat1noteItem, topics ] {nursing}
+carPat1, carPat1nursingItem, topics ] {note}
+oncAgent1, oncPat2nursingItem, topics ] {note}
+carPat2, oncPat1nursingItem, type [ {HR}
+oncNurse2, carPat1carItem, topics ] {note}
+carNurse1, oncPat1oncItem, topics ] {nursing}
+oncNurse1, carPat1carItem, topics ] {nursing}
+carNurse1, oncPat2oncItem, type [ {HR}
+oncNurse2, oncPat1HR, ward = ward
+oncPat2, carPat1nursingItem, topics ] {note}
+carDoc2, oncPat2nursingItem, topics ] {note}
+carAgent2, oncPat2oncItem, topics ] {note}
+anesDoc1, oncPat2HR, type [ {HR}
+carPat2, carPat2carItem, topics ] {note}
+oncNurse1, carPat1nursingItem, type [ {HR}
+oncNurse1, carPat1carItem, type [ {HR}
+oncNurse1, carPat1nursingItem, topics ] {nursing}
+carPat1, oncPat1nursingItem, type [ {HR}
+carPat1, oncPat2noteItem, topics ] {note}
+carPat2, carPat2carItem, type [ {HR}
+oncAgent2, oncPat2oncItem, type [ {HR}
+oncAgent1, carPat1noteItem, topics ] {note}
+oncAgent2, carPat2noteItem, topics ] {note}
+carNurse2, oncPat2oncItem, type [ {HR}
+anesDoc1, carPat1nursingItem, type [ {HR}
+carNurse2, oncPat2noteItem, topics ] {note}
+doc2, carPat1HR, type [ {HR}
+oncPat2, carPat2carItem, topics ] {note}
+doc1, carPat2carItem, type [ {HR}
+oncPat2, oncPat1nursingItem, type [ {HR}
+carDoc2, carPat2nursingItem, topics ] {note}
+oncAgent1, oncPat2noteItem, topics ] {note}
+carDoc2, carPat1carItem, type [ {HR}
+oncPat1, oncPat2noteItem, type [ {HR}
+carPat2, oncPat1noteItem, type [ {HR}
+oncDoc3, oncPat1oncItem, topics ] {note}
+oncNurse2, oncPat1oncItem, type [ {HR}
+carNurse1, carPat2noteItem, topics ] {nursing}
+oncPat2, carPat1HR, type [ {HR}
+anesDoc1, oncPat1nursingItem, topics ] {note}
+carPat1, oncPat1noteItem, topics ] {note}
+carAgent1, carPat1HR, type [ {HR}
+oncAgent1, carPat1noteItem, type [ {HR}
+carNurse1, carPat2carItem, topics ] {note}
+carAgent2, oncPat1noteItem, topics ] {note}
+oncAgent1, oncPat1noteItem, type [ {HR}
+oncDoc1, oncPat1oncItem, type [ {HR}
+oncAgent1, carPat1HR, type [ {HR}
+oncPat2, oncPat1oncItem, topics ] {note}
+oncNurse2, carPat1nursingItem, topics ] {nursing}
+carNurse1, oncPat1HR, ward = ward
+oncDoc4, oncPat1oncItem, topics ] {note}
+oncAgent1, oncPat2HR, type [ {HR}
+oncAgent2, carPat1carItem, type [ {HR}
+oncPat1, oncPat1oncItem, type [ {HR}
+oncDoc1, oncPat2oncItem, topics ] {note}
+oncNurse2, carPat2HR, type [ {HR}
+doc2, carPat2carItem, topics ] {note}
+doc2, carPat2HR, type [ {HR}
+carAgent2, carPat2noteItem, type [ {HR}
+oncDoc2, oncPat2noteItem, type [ {HR}
+carAgent2, carPat1noteItem, topics ] {note}
+oncNurse1, carPat1noteItem, type [ {HR}
+carDoc2, oncPat2noteItem, type [ {HR}
+oncDoc2, oncPat1oncItem, type [ {HR}
+oncDoc1, oncPat2oncItem, type [ {HR}
+carPat2, carPat1carItem, topics ] {note}
+oncDoc2, oncPat1oncItem, topics ] {note}
+oncAgent2, oncPat2nursingItem, type [ {HR}
+oncPat2, oncPat2nursingItem, type [ {HR}
+doc2, oncPat2noteItem, type [ {HR}
+oncDoc4, oncPat1noteItem, topics ] {note}
+carNurse2, carPat1noteItem, topics ] {nursing}
+oncNurse1, oncPat2oncItem, topics ] {nursing}
+carDoc2, carPat1nursingItem, topics ] {note}
+carDoc2, oncPat2oncItem, type [ {HR}
+carAgent1, carPat1noteItem, topics ] {note}
+carNurse1, oncPat1nursingItem, topics ] {nursing}
+oncAgent1, oncPat2oncItem, type [ {HR}
+carNurse1, oncPat2noteItem, topics ] {nursing}
+carNurse1, carPat1HR, ward = ward
+oncPat1, oncPat2noteItem, topics ] {note}
+carAgent2, oncPat1nursingItem, type [ {HR}
+carAgent1, oncPat2noteItem, type [ {HR}
+doc2, carPat1carItem, topics ] {note}
+carPat2, oncPat1nursingItem, topics ] {note}
+oncDoc1, carPat1carItem, type [ {HR}
+oncDoc4, oncPat2HR, type [ {HR}
+oncDoc2, carPat1carItem, topics ] {note}
+carAgent1, carPat1nursingItem, topics ] {note}
+doc1, carPat1HR, type [ {HR}
+doc2, carPat2carItem, type [ {HR}
+carDoc2, oncPat2noteItem, topics ] {note}
+carDoc2, carPat2HR, type [ {HR}
+oncDoc2, oncPat2oncItem, type [ {HR}
+oncDoc2, carPat2carItem, topics ] {note}
+oncDoc3, carPat1carItem, topics ] {note}
+carPat2, carPat2nursingItem, topics ] {note}
+oncPat1, carPat2noteItem, topics ] {note}
+doc1, carPat2nursingItem, type [ {HR}
+carNurse1, carPat2carItem, type [ {HR}
+doc1, oncPat2oncItem, type [ {HR}
+oncDoc4, carPat1HR, type [ {HR}
+doc1, oncPat2HR, type [ {HR}
+carAgent1, carPat2noteItem, type [ {HR}
+oncPat2, carPat1noteItem, topics ] {note}
+oncPat2, carPat2HR, type [ {HR}
+oncNurse1, oncPat2nursingItem, type [ {HR}
+oncPat1, oncPat2nursingItem, topics ] {note}
+oncAgent2, carPat1noteItem, type [ {HR}
+carPat1, carPat1carItem, type [ {HR}
+carPat2, carPat2nursingItem, type [ {HR}
+oncNurse1, carPat1noteItem, topics ] {note}
+doc1, oncPat2noteItem, topics ] {note}
+carDoc2, carPat1HR, type [ {HR}
+carPat1, carPat2noteItem, topics ] {note}
+oncDoc3, carPat2carItem, topics ] {note}
+oncPat2, oncPat2oncItem, type [ {HR}
+carAgent2, carPat2noteItem, topics ] {note}
+carDoc1, oncPat1oncItem, type [ {HR}
+oncAgent1, carPat2carItem, type [ {HR}
+doc1, carPat1carItem, type [ {HR}
+carAgent1, oncPat2nursingItem, topics ] {note}
+oncPat1, carPat2HR, type [ {HR}
+oncDoc1, oncPat2noteItem, topics ] {note}
+carNurse1, carPat2noteItem, topics ] {note}
+doc1, carPat2carItem, topics ] {note}
+oncNurse2, oncPat1HR, type [ {HR}
+oncNurse1, carPat1carItem, topics ] {note}
+carPat2, oncPat2nursingItem, type [ {HR}
+oncPat1, oncPat1oncItem, topics ] {note}
+oncDoc3, carPat2nursingItem, topics ] {note}
+oncPat2, carPat1carItem, topics ] {note}
+oncDoc4, carPat2noteItem, topics ] {note}
+carAgent1, oncPat1noteItem, topics ] {note}
+oncDoc1, carPat1nursingItem, topics ] {note}
+oncPat2, oncPat1HR, type [ {HR}
+oncDoc4, oncPat1nursingItem, type [ {HR}
+carNurse1, oncPat2HR, ward = ward
+anesDoc1, carPat2carItem, topics ] {note}
+doc2, oncPat2HR, type [ {HR}
+carAgent1, carPat1nursingItem, type [ {HR}
+doc2, carPat1carItem, type [ {HR}
+oncNurse1, oncPat1HR, type [ {HR}
+carNurse2, carPat1carItem, topics ] {note}
+carNurse1, oncPat1HR, type [ {HR}
+anesDoc1, oncPat2oncItem, topics ] {note}
+carDoc1, carPat1HR, type [ {HR}
+carDoc2, carPat1noteItem, topics ] {note}
+carPat1, oncPat2oncItem, type [ {HR}
+oncAgent2, carPat2noteItem, type [ {HR}
+carNurse1, oncPat2HR, type [ {HR}
+carNurse2, oncPat1noteItem, type [ {HR}
+oncNurse1, oncPat1nursingItem, topics ] {nursing}
+oncDoc2, oncPat1noteItem, topics ] {note}
+anesDoc1, oncPat1oncItem, type [ {HR}
+oncNurse1, carPat2HR, ward = ward
+oncNurse1, oncPat1HR, ward = ward
+anesDoc1, carPat1nursingItem, topics ] {note}
+oncPat1, oncPat2oncItem, type [ {HR}
+oncAgent2, oncPat1HR, type [ {HR}
+oncPat2, carPat2noteItem, topics ] {note}
+carAgent1, oncPat2noteItem, topics ] {note}
+carNurse2, carPat2noteItem, type [ {HR}
+oncAgent2, oncPat2HR, type [ {HR}
+oncDoc4, carPat1carItem, type [ {HR}
+carDoc1, carPat1nursingItem, topics ] {note}
+doc1, carPat1nursingItem, topics ] {note}
+carDoc1, oncPat1oncItem, topics ] {note}
+oncAgent2, oncPat2oncItem, topics ] {note}
+doc2, carPat1nursingItem, topics ] {note}
+oncNurse2, carPat2HR, ward = ward
+oncDoc2, oncPat2oncItem, topics ] {note}
+carNurse1, oncPat2nursingItem, topics ] {nursing}
+oncNurse1, oncPat1nursingItem, topics ] {note}
+doc2, oncPat1noteItem, type [ {HR}
+carNurse1, carPat2nursingItem, topics ] {note}
+oncNurse2, carPat1nursingItem, type [ {HR}
+oncNurse1, oncPat1oncItem, type [ {HR}
+carDoc2, oncPat2nursingItem, type [ {HR}
+oncNurse1, oncPat2HR, type [ {HR}
+carAgent2, oncPat2nursingItem, topics ] {note}
+oncDoc4, oncPat1nursingItem, topics ] {note}
+oncPat2, oncPat2HR, type [ {HR}
+oncDoc1, carPat2noteItem, type [ {HR}
+carPat1, carPat1HR, type [ {HR}
+carNurse1, carPat1nursingItem, type [ {HR}
+carNurse1, oncPat2oncItem, topics ] {note}
+carPat2, oncPat1HR, type [ {HR}
+oncDoc3, carPat2noteItem, topics ] {note}
+carAgent2, carPat2nursingItem, type [ {HR}
+oncPat1, carPat1HR, type [ {HR}
+oncDoc1, carPat1noteItem, type [ {HR}
+oncDoc3, carPat1nursingItem, topics ] {note}
+carDoc1, carPat2carItem, type [ {HR}
+carAgent2, oncPat1nursingItem, topics ] {note}
+oncDoc3, carPat1HR, type [ {HR}
+oncPat2, oncPat1oncItem, type [ {HR}
+carNurse1, oncPat2oncItem, topics ] {nursing}
+doc1, oncPat1noteItem, topics ] {note}
+oncAgent2, carPat1nursingItem, topics ] {note}
+oncAgent2, carPat2HR, type [ {HR}
+carAgent2, carPat1HR, type [ {HR}
+carPat2, oncPat2noteItem, topics ] {note}
+doc1, carPat1noteItem, topics ] {note}
+carDoc2, oncPat1oncItem, topics ] {note}
+oncPat2, oncPat2noteItem, type [ {HR}
+doc2, oncPat2oncItem, topics ] {note}
+carDoc2, oncPat1noteItem, type [ {HR}
+oncDoc3, oncPat2nursingItem, type [ {HR}
+oncDoc3, oncPat1noteItem, type [ {HR}
+carDoc2, oncPat2oncItem, topics ] {note}
+oncNurse2, carPat2noteItem, topics ] {note}
+oncNurse1, oncPat1noteItem, type [ {HR}
+carPat2, oncPat1oncItem, type [ {HR}
+carAgent1, carPat2carItem, type [ {HR}
+carNurse1, carPat2nursingItem, topics ] {nursing}
+doc1, carPat1carItem, topics ] {note}
+oncNurse2, oncPat2nursingItem, type [ {HR}
+carPat2, oncPat1oncItem, topics ] {note}
+oncNurse2, oncPat1nursingItem, topics ] {note}
+doc1, oncPat1nursingItem, topics ] {note}
+oncDoc1, carPat2nursingItem, topics ] {note}
+oncPat2, carPat2noteItem, type [ {HR}
+doc2, carPat1noteItem, type [ {HR}
+oncDoc1, oncPat1nursingItem, topics ] {note}
+anesDoc1, carPat2HR, type [ {HR}
+oncNurse2, carPat2nursingItem, topics ] {note}
+oncAgent2, carPat1carItem, topics ] {note}
+carNurse1, carPat1noteItem, type [ {HR}
+doc2, carPat2nursingItem, type [ {HR}
+oncAgent1, oncPat2noteItem, type [ {HR}
+carNurse2, oncPat1oncItem, type [ {HR}
+oncNurse2, oncPat2noteItem, topics ] {nursing}
+carDoc1, carPat2noteItem, type [ {HR}
+doc2, oncPat2nursingItem, type [ {HR}
+carPat2, oncPat1noteItem, topics ] {note}
+oncDoc3, oncPat1HR, type [ {HR}
+carNurse1, carPat1nursingItem, topics ] {note}
+carNurse1, oncPat2noteItem, topics ] {note}
+oncNurse2, oncPat1noteItem, topics ] {nursing}
+carAgent2, oncPat1noteItem, type [ {HR}
+anesDoc1, oncPat2noteItem, topics ] {note}
+oncAgent2, oncPat2noteItem, topics ] {note}
+oncPat2, oncPat1noteItem, type [ {HR}
+carDoc1, carPat2nursingItem, topics ] {note}
+oncNurse2, oncPat2oncItem, topics ] {nursing}
+carAgent1, oncPat2oncItem, type [ {HR}
+oncNurse1, carPat2noteItem, topics ] {note}
+carNurse2, carPat1nursingItem, topics ] {nursing}
+anesDoc1, oncPat2noteItem, type [ {HR}
+carAgent2, carPat1nursingItem, topics ] {note}
+carDoc2, carPat1noteItem, type [ {HR}
+oncNurse1, carPat2nursingItem, type [ {HR}
+oncDoc1, oncPat1nursingItem, type [ {HR}
+oncPat1, oncPat2oncItem, topics ] {note}
+carPat2, carPat1noteItem, topics ] {note}
+carNurse1, oncPat1oncItem, type [ {HR}
+oncAgent2, oncPat1oncItem, type [ {HR}
+carDoc1, oncPat2nursingItem, type [ {HR}
+oncDoc2, oncPat1nursingItem, topics ] {note}
+carDoc1, oncPat2HR, type [ {HR}
+oncNurse1, oncPat2noteItem, topics ] {note}
+oncDoc4, oncPat1HR, type [ {HR}
+oncDoc4, carPat2carItem, topics ] {note}
+carDoc2, carPat2noteItem, topics ] {note}
+oncDoc4, oncPat2noteItem, type [ {HR}
+oncNurse2, oncPat2nursingItem, topics ] {note}
+oncDoc4, oncPat2nursingItem, type [ {HR}
+carAgent2, carPat1carItem, topics ] {note}
+oncDoc3, carPat2carItem, type [ {HR}
+anesDoc1, carPat1HR, type [ {HR}
+oncDoc2, oncPat2nursingItem, type [ {HR}
+oncNurse1, oncPat1noteItem, topics ] {note}
+carNurse2, carPat2HR, ward = ward
+oncDoc4, carPat1carItem, topics ] {note}
+oncNurse1, oncPat2nursingItem, topics ] {note}
+carAgent2, oncPat2oncItem, type [ {HR}
+oncDoc1, carPat1nursingItem, type [ {HR}
+oncPat2, carPat1noteItem, type [ {HR}
+doc1, carPat2noteItem, topics ] {note}
+carNurse2, carPat2carItem, type [ {HR}
+oncDoc2, carPat1noteItem, type [ {HR}
+oncNurse2, carPat1noteItem, type [ {HR}
+oncNurse1, carPat2carItem, topics ] {nursing}
+carDoc1, carPat1carItem, type [ {HR}
+carAgent2, carPat2HR, type [ {HR}
+oncDoc2, carPat1carItem, type [ {HR}
+carDoc1, carPat2HR, type [ {HR}
+carNurse1, carPat1carItem, topics ] {nursing}
+carPat1, carPat2nursingItem, topics ] {note}
+carNurse1, oncPat1oncItem, topics ] {note}
+oncPat1, carPat2nursingItem, topics ] {note}
+carNurse1, carPat1noteItem, topics ] {note}
+carAgent2, carPat2carItem, type [ {HR}
+oncPat1, oncPat2nursingItem, type [ {HR}
+carNurse2, carPat2carItem, topics ] {note}
+oncNurse2, carPat2carItem, type [ {HR}
+carPat2, oncPat2oncItem, type [ {HR}
+oncPat2, carPat2nursingItem, topics ] {note}
+oncDoc3, oncPat2oncItem, topics ] {note}
+anesDoc1, oncPat1noteItem, topics ] {note}
+carPat1, oncPat1oncItem, topics ] {note}
+oncDoc4, oncPat2oncItem, type [ {HR}
+oncNurse2, oncPat2nursingItem, topics ] {nursing}
+carDoc1, oncPat2oncItem, type [ {HR}
+carAgent2, carPat2nursingItem, topics ] {note}
+carNurse2, carPat1nursingItem, type [ {HR}
+doc1, oncPat2noteItem, type [ {HR}
+oncDoc1, oncPat1noteItem, type [ {HR}
+oncDoc1, oncPat1noteItem, topics ] {note}
+doc2, oncPat2nursingItem, topics ] {note}
+oncPat1, carPat1carItem, topics ] {note}
+carPat1, oncPat1nursingItem, topics ] {note}
+carPat2, carPat2noteItem, type [ {HR}
+carNurse1, carPat1nursingItem, topics ] {nursing}
+oncDoc4, carPat1nursingItem, topics ] {note}
+carAgent1, carPat1noteItem, type [ {HR}
+oncNurse1, carPat2nursingItem, topics ] {note}
+carNurse2, oncPat1nursingItem, topics ] {note}
+oncAgent2, oncPat1noteItem, topics ] {note}
+oncDoc3, oncPat1nursingItem, type [ {HR}
+oncNurse2, oncPat2HR, ward = ward
+carNurse2, oncPat1oncItem, topics ] {note}
+oncNurse2, oncPat2oncItem, topics ] {note}
+oncNurse1, oncPat2oncItem, topics ] {note}
+carAgent1, carPat2HR, type [ {HR}
+carNurse2, oncPat2nursingItem, type [ {HR}
+carAgent1, carPat2nursingItem, topics ] {note}
+oncAgent2, carPat2nursingItem, type [ {HR}
+carDoc1, oncPat1nursingItem, topics ] {note}
+anesDoc1, carPat2carItem, type [ {HR}
+oncAgent1, carPat2carItem, topics ] {note}
+oncAgent2, oncPat2noteItem, type [ {HR}
+carNurse2, oncPat2nursingItem, topics ] {note}
+oncAgent1, carPat2nursingItem, type [ {HR}
+oncNurse2, carPat1HR, type [ {HR}
+carPat2, oncPat2HR, type [ {HR}
+oncDoc4, oncPat1noteItem, type [ {HR}
+carPat1, carPat2nursingItem, type [ {HR}
+carDoc1, carPat1noteItem, type [ {HR}
+carPat2, carPat2HR, type [ {HR}
+oncNurse2, carPat1noteItem, topics ] {nursing}
+doc2, oncPat1nursingItem, type [ {HR}
+oncDoc4, carPat1noteItem, topics ] {note}
+anesDoc1, oncPat2oncItem, type [ {HR}
+oncDoc4, carPat2noteItem, type [ {HR}
+carNurse2, oncPat2oncItem, topics ] {nursing}
+carPat1, carPat1noteItem, type [ {HR}
+carNurse1, carPat2HR, ward = ward
+carDoc1, oncPat1noteItem, topics ] {note}
+oncDoc3, oncPat2HR, type [ {HR}
+carDoc2, oncPat1nursingItem, type [ {HR}
+oncNurse1, oncPat2oncItem, type [ {HR}
+anesDoc1, carPat1carItem, type [ {HR}
+oncNurse2, carPat1nursingItem, topics ] {note}
+oncAgent1, carPat1nursingItem, type [ {HR}
+oncDoc2, carPat1nursingItem, topics ] {note}
+carNurse1, carPat2HR, type [ {HR}
+carNurse2, oncPat1oncItem, topics ] {nursing}
+oncDoc1, carPat1noteItem, topics ] {note}
+doc2, carPat2noteItem, type [ {HR}
+doc1, oncPat1oncItem, topics ] {note}
+oncDoc1, oncPat2HR, type [ {HR}
+oncAgent2, oncPat1oncItem, topics ] {note}
+carAgent1, carPat1carItem, type [ {HR}
+oncAgent2, carPat1noteItem, topics ] {note}
+doc2, carPat1noteItem, topics ] {note}
+oncDoc3, carPat2noteItem, type [ {HR}
+doc1, oncPat2oncItem, topics ] {note}
+oncDoc1, oncPat2noteItem, type [ {HR}
+doc1, carPat2HR, type [ {HR}
+carAgent2, oncPat2HR, type [ {HR}
+oncDoc2, carPat2nursingItem, topics ] {note}
+carDoc2, oncPat1noteItem, topics ] {note}
+anesDoc1, carPat2noteItem, topics ] {note}
+carNurse1, oncPat2noteItem, type [ {HR}
+carNurse2, carPat1HR, type [ {HR}
+carAgent2, oncPat1HR, type [ {HR}
+carAgent2, carPat1carItem, type [ {HR}
+doc1, carPat2noteItem, type [ {HR}
+doc1, oncPat2nursingItem, topics ] {note}
+oncDoc2, carPat2noteItem, type [ {HR}
+oncDoc3, oncPat2noteItem, topics ] {note}
+oncPat1, carPat1carItem, type [ {HR}
+carNurse2, carPat1carItem, type [ {HR}
+oncNurse2, carPat2carItem, topics ] {note}
+carAgent1, carPat2carItem, topics ] {note}
+carNurse2, oncPat1HR, type [ {HR}
+carDoc1, oncPat1nursingItem, type [ {HR}
+carAgent1, oncPat2nursingItem, type [ {HR}
+carNurse2, carPat1nursingItem, topics ] {note}
+carDoc1, carPat2noteItem, topics ] {note}
+oncDoc3, oncPat2oncItem, type [ {HR}
+carNurse2, oncPat1HR, ward = ward
+carNurse2, carPat1noteItem, type [ {HR}
+oncDoc3, carPat1nursingItem, type [ {HR}
+anesDoc1, oncPat1noteItem, type [ {HR}
+oncNurse1, carPat1HR, type [ {HR}
+carPat1, carPat2HR, type [ {HR}
+carPat1, carPat2noteItem, type [ {HR}
+doc1, oncPat2nursingItem, type [ {HR}
+oncAgent1, carPat2HR, type [ {HR}
+oncNurse1, oncPat1oncItem, topics ] {note}
+oncNurse1, carPat2noteItem, type [ {HR}
+oncDoc4, carPat2HR, type [ {HR}
+oncNurse2, carPat1HR, ward = ward
+carDoc1, oncPat1noteItem, type [ {HR}
+anesDoc1, oncPat1nursingItem, type [ {HR}
+oncAgent1, oncPat2oncItem, topics ] {note}
+carPat1, carPat1nursingItem, type [ {HR}
+oncPat2, carPat1carItem, type [ {HR}
+carDoc1, carPat1nursingItem, type [ {HR}
+carNurse2, oncPat2oncItem, topics ] {note}
+oncAgent1, oncPat1oncItem, type [ {HR}
+carAgent1, oncPat1nursingItem, type [ {HR}
+oncPat1, oncPat1nursingItem, type [ {HR}
+oncNurse1, carPat2nursingItem, topics ] {nursing}
+oncAgent1, oncPat1HR, type [ {HR}
+oncNurse2, oncPat2noteItem, type [ {HR}
+oncAgent2, carPat2carItem, topics ] {note}
+oncDoc4, oncPat2noteItem, topics ] {note}
+anesDoc1, oncPat1oncItem, topics ] {note}
+anesDoc1, carPat2nursingItem, topics ] {note}
+carDoc1, carPat2nursingItem, type [ {HR}
+carPat1, oncPat1noteItem, type [ {HR}
+oncNurse1, oncPat2noteItem, topics ] {nursing}
+carAgent1, oncPat1oncItem, type [ {HR}
+oncDoc2, carPat1noteItem, topics ] {note}
+oncDoc3, oncPat1noteItem, topics ] {note}
+carNurse1, carPat1noteItem, topics ] {nursing}
+oncDoc3, carPat1noteItem, topics ] {note}
+carNurse2, carPat2noteItem, topics ] {nursing}
+oncNurse1, carPat1HR, ward = ward
+carNurse2, carPat2carItem, topics ] {nursing}
+carNurse1, carPat1carItem, type [ {HR}
+carPat1, carPat2carItem, topics ] {note}
+oncNurse1, carPat2carItem, type [ {HR}
+oncNurse1, oncPat1noteItem, topics ] {nursing}
+carDoc1, oncPat2oncItem, topics ] {note}
+oncDoc1, carPat2HR, type [ {HR}
+oncDoc1, carPat1carItem, topics ] {note}
+oncNurse1, carPat1nursingItem, topics ] {note}
+oncNurse2, oncPat2noteItem, topics ] {note}
+oncDoc1, carPat2carItem, topics ] {note}
+carDoc2, carPat2carItem, topics ] {note}
+oncNurse2, carPat2nursingItem, topics ] {nursing}
+oncDoc2, carPat2nursingItem, type [ {HR}
+oncPat1, carPat2carItem, type [ {HR}
+oncPat2, oncPat1nursingItem, topics ] {note}
+carAgent2, oncPat2noteItem, type [ {HR}
+anesDoc1, carPat2nursingItem, type [ {HR}
+carNurse1, carPat2carItem, topics ] {nursing}
+oncAgent1, oncPat2nursingItem, type [ {HR}
+oncNurse2, carPat1carItem, type [ {HR}
+oncAgent2, oncPat2nursingItem, topics ] {note}
+oncNurse1, oncPat2noteItem, type [ {HR}
+oncNurse1, oncPat2HR, ward = ward
+carDoc1, oncPat2nursingItem, topics ] {note}
+carDoc1, oncPat2noteItem, topics ] {note}
+oncAgent1, carPat2noteItem, topics ] {note}
+oncDoc2, carPat2HR, type [ {HR}
+carPat2, oncPat2noteItem, type [ {HR}
+carAgent1, oncPat2HR, type [ {HR}
+oncAgent1, carPat1nursingItem, topics ] {note}
+oncDoc1, carPat2nursingItem, type [ {HR}
+oncPat2, carPat2nursingItem, type [ {HR}
+oncNurse2, carPat2noteItem, topics ] {nursing}
+carNurse2, oncPat2noteItem, topics ] {nursing}
+oncDoc3, oncPat1oncItem, type [ {HR}
+doc2, carPat2noteItem, topics ] {note}
+carDoc2, carPat2nursingItem, type [ {HR}
+carNurse1, oncPat2nursingItem, topics ] {note}
+carNurse2, carPat1noteItem, topics ] {note}
+oncPat1, oncPat1noteItem, topics ] {note}
+carPat1, carPat1carItem, topics ] {note}
+oncDoc2, carPat1nursingItem, type [ {HR}
+oncDoc2, oncPat1HR, type [ {HR}
+oncPat1, carPat2noteItem, type [ {HR}
+oncNurse2, oncPat2oncItem, type [ {HR}
+doc2, oncPat1nursingItem, topics ] {note}
+oncAgent1, oncPat1oncItem, topics ] {note}
+carPat1, oncPat1oncItem, type [ {HR}
+carAgent2, oncPat2noteItem, topics ] {note}
+oncPat2, oncPat1noteItem, topics ] {note}
+doc2, carPat2nursingItem, topics ] {note}
+oncNurse1, carPat2HR, type [ {HR}
+carPat1, oncPat2noteItem, type [ {HR}
+anesDoc1, carPat2noteItem, type [ {HR}
+carDoc1, carPat1noteItem, topics ] {note}
+oncPat2, oncPat2noteItem, topics ] {note}
+carAgent1, oncPat1oncItem, topics ] {note}
+oncNurse2, carPat1noteItem, topics ] {note}
+carNurse1, oncPat1noteItem, topics ] {note}
+carNurse1, oncPat1nursingItem, topics ] {note}
+carNurse1, carPat2noteItem, type [ {HR}
+oncDoc3, carPat2nursingItem, type [ {HR}
+oncNurse1, carPat2carItem, topics ] {note}
+oncDoc4, carPat2nursingItem, topics ] {note}
+carNurse2, oncPat1nursingItem, type [ {HR}
+anesDoc1, oncPat2nursingItem, type [ {HR}
+doc1, oncPat1oncItem, type [ {HR}
+oncAgent2, oncPat1nursingItem, type [ {HR}
+oncAgent2, carPat1nursingItem, type [ {HR}
+oncAgent1, oncPat1nursingItem, topics ] {note}
+carNurse2, oncPat1nursingItem, topics ] {nursing}
+carDoc2, oncPat1oncItem, type [ {HR}
+oncPat1, carPat1nursingItem, type [ {HR}
+carDoc1, oncPat1HR, type [ {HR}
+oncNurse2, oncPat2HR, type [ {HR}
+oncPat1, oncPat1noteItem, type [ {HR}
+oncDoc2, oncPat1noteItem, type [ {HR}
+doc2, oncPat1noteItem, topics ] {note}
+oncPat1, carPat2carItem, topics ] {note}
+carNurse1, oncPat1nursingItem, type [ {HR}
+oncDoc2, oncPat2nursingItem, topics ] {note}
+carNurse1, oncPat1noteItem, topics ] {nursing}
+carDoc2, carPat2carItem, type [ {HR}
+oncDoc2, oncPat2noteItem, topics ] {note}
+doc1, oncPat1HR, type [ {HR}
+carAgent2, carPat2carItem, topics ] {note}
+doc2, oncPat2oncItem, type [ {HR}
+carPat1, carPat1noteItem, topics ] {note}
+carPat2, carPat1HR, type [ {HR}
+oncAgent1, carPat1carItem, topics ] {note}
+oncDoc3, carPat1noteItem, type [ {HR}
+doc2, oncPat1HR, type [ {HR}
+oncPat1, oncPat2HR, type [ {HR}
+anesDoc1, carPat1noteItem, type [ {HR}
+oncNurse2, carPat2carItem, topics ] {nursing}
+oncDoc2, oncPat2HR, type [ {HR}
+oncAgent2, carPat1HR, type [ {HR}
+oncNurse2, oncPat1nursingItem, topics ] {nursing}
+oncAgent2, oncPat1nursingItem, topics ] {note}
+oncNurse1, carPat2noteItem, topics ] {nursing}
+carDoc2, carPat1carItem, topics ] {note}
+carDoc2, oncPat1HR, type [ {HR}
+oncDoc2, carPat2carItem, type [ {HR}
+oncDoc4, carPat2nursingItem, type [ {HR}
+carPat2, carPat1nursingItem, type [ {HR}
+carAgent2, carPat1noteItem, type [ {HR}
+oncAgent1, carPat2nursingItem, topics ] {note}
+oncNurse2, carPat2noteItem, type [ {HR}
+oncPat2, oncPat2oncItem, topics ] {note}
+carAgent1, oncPat1nursingItem, topics ] {note}
+carNurse2, carPat2noteItem, topics ] {note}
+carDoc1, carPat1carItem, topics ] {note}
+oncAgent1, oncPat1noteItem, topics ] {note}
+oncNurse2, oncPat1nursingItem, type [ {HR}
+oncPat1, oncPat1HR, type [ {HR}
+oncDoc2, carPat2noteItem, topics ] {note}
+carPat2, carPat1noteItem, type [ {HR}
+carPat2, oncPat2oncItem, topics ] {note}
+carAgent1, oncPat1noteItem, type [ {HR}
+oncDoc1, oncPat2nursingItem, topics ] {note}
+oncPat2, carPat1nursingItem, type [ {HR}
+carPat1, oncPat2nursingItem, type [ {HR}
+oncAgent2, oncPat1noteItem, type [ {HR}
+oncPat2, oncPat2nursingItem, topics ] {note}
+carDoc2, carPat1nursingItem, type [ {HR}
+oncDoc2, oncPat1nursingItem, type [ {HR}
+oncPat1, carPat2nursingItem, type [ {HR}
+carDoc1, carPat2carItem, topics ] {note}
+oncNurse1, oncPat1nursingItem, type [ {HR}
+doc1, carPat1noteItem, type [ {HR}
+carPat2, carPat2noteItem, topics ] {note}
+oncDoc1, carPat2carItem, type [ {HR}
+carDoc2, oncPat2HR, type [ {HR}
+oncDoc1, oncPat1HR, type [ {HR}
+carNurse2, carPat2nursingItem, type [ {HR}
+oncNurse2, oncPat1noteItem, topics ] {note}
+oncDoc4, oncPat2nursingItem, topics ] {note}
+oncDoc1, carPat2noteItem, topics ] {note}
+doc2, oncPat1oncItem, topics ] {note}
+oncDoc3, carPat2HR, type [ {HR}
+oncDoc4, oncPat2oncItem, topics ] {note}
+carDoc2, oncPat1nursingItem, topics ] {note}
+oncDoc2, carPat1HR, type [ {HR}
+oncNurse2, carPat2nursingItem, type [ {HR}
+carNurse2, oncPat2HR, type [ {HR}
+carPat1, carPat2carItem, type [ {HR}
+carNurse2, carPat2nursingItem, topics ] {note}
+doc1, oncPat1noteItem, type [ {HR}
+carAgent1, carPat2nursingItem, type [ {HR}
+carPat1, oncPat2oncItem, topics ] {note}
+carNurse1, oncPat1noteItem, type [ {HR}
+oncAgent1, oncPat1nursingItem, type [ {HR}
+oncPat1, oncPat1nursingItem, topics ] {note}
+doc1, carPat2nursingItem, topics ] {note}
+oncPat1, carPat1noteItem, type [ {HR}
+carPat2, carPat1nursingItem, topics ] {note}
+carNurse1, oncPat2nursingItem, type [ {HR}
+oncPat1, carPat1noteItem, topics ] {note}
+carNurse2, carPat2HR, type [ {HR}
+carDoc1, oncPat2noteItem, type [ {HR}
+doc2, oncPat2noteItem, topics ] {note}
+oncDoc4, carPat1noteItem, type [ {HR}
+carPat1, oncPat2HR, type [ {HR}
+carAgent2, carPat1nursingItem, type [ {HR}
+oncNurse2, oncPat1oncItem, topics ] {nursing}
+carPat1, oncPat1HR, type [ {HR}
+carAgent1, oncPat2oncItem, topics ] {note}
+carNurse2, oncPat2HR, ward = ward
+doc1, oncPat1nursingItem, type [ {HR}
+carNurse2, carPat1HR, ward = ward
+carAgent1, carPat2noteItem, topics ] {note}
+carAgent2, oncPat2nursingItem, type [ {HR}
+oncNurse2, carPat1carItem, topics ] {nursing}
+oncAgent1, carPat1carItem, type [ {HR}
+carAgent2, oncPat1oncItem, topics ] {note}
+anesDoc1, oncPat1HR, type [ {HR}
+carNurse1, carPat1HR, type [ {HR}
+anesDoc1, oncPat2nursingItem, topics ] {note}
+oncPat2, carPat2carItem, type [ {HR}
+oncNurse1, oncPat1oncItem, topics ] {nursing}
+carPat2, carPat1carItem, type [ {HR}
+carNurse2, oncPat2noteItem, type [ {HR}
+carNurse2, carPat2nursingItem, topics ] {nursing}
+carAgent1, carPat1carItem, topics ] {note}
+oncDoc3, carPat1carItem, type [ {HR}
+carPat1, oncPat2nursingItem, topics ] {note}
+oncNurse2, oncPat1oncItem, topics ] {note}
+carAgent1, oncPat1HR, type [ {HR}
+carNurse2, oncPat1noteItem, topics ] {note}
+doc1, carPat1nursingItem, type [ {HR}
+oncDoc1, oncPat1oncItem, topics ] {note}
+oncDoc1, oncPat2nursingItem, type [ {HR}
+anesDoc1, carPat1noteItem, topics ] {note}
+carPat2, oncPat2nursingItem, topics ] {note}
+oncAgent1, carPat2noteItem, type [ {HR}
+oncAgent2, carPat2carItem, type [ {HR}
+oncDoc4, oncPat1oncItem, type [ {HR}
+oncDoc3, oncPat2noteItem, type [ {HR}
+oncDoc1, carPat1HR, type [ {HR}
+oncDoc4, carPat1nursingItem, type [ {HR}
+oncDoc3, oncPat1nursingItem, topics ] {note}
+carNurse2, oncPat2nursingItem, topics ] {nursing}
+carDoc2, carPat2noteItem, type [ {HR}
+doc2, carPat1nursingItem, type [ {HR}
+oncPat1, carPat1nursingItem, topics ] {note}
+carAgent2, oncPat1oncItem, type [ {HR}
+oncNurse2, oncPat1noteItem, type [ {HR}
+oncNurse1, carPat1noteItem, topics ] {nursing}
+doc2, oncPat1oncItem, type [ {HR}
+oncAgent2, carPat2nursingItem, topics ] {note}
+carNurse1, carPat1carItem, topics ] {note}
+oncDoc3, oncPat2nursingItem, topics ] {note}
+carNurse2, carPat1carItem, topics ] {nursing}
