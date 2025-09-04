@@ -51,7 +51,7 @@ def compare_acl (acl1, acl2):
 
     #if there is a 100% match then lists that have unique ACL line will return true
     complete_match = False
-    if(len(only_in_acl1) == 0 or len(only_in_acl2) == 0):
+    if((len(acl1) == 0 and len(only_in_acl2) == 0) and (len(acl1) == len(acl2))):
         complete_match = True
 
     return lines, complete_match
