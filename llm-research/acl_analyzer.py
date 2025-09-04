@@ -41,7 +41,7 @@ def compare_acl (acl1, acl2):
     lines.append(f"Common lines: {len(common)}")
     lines.extend(sorted(common))
     lines.append("")
-    lines.append(f"Only in Original ACL: {len(only_in_acl1)}")
+    lines.append(f"Only in ground truth ACL: {len(only_in_acl1)}")
     lines.extend(sorted(only_in_acl1))
     lines.append("")
     lines.append(f"Only in LLM ACL: {len(only_in_acl2)}")

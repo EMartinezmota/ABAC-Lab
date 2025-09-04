@@ -3,13 +3,14 @@
 # combine text files
 
 
-def write_to_file(filename, lines=None):
+def write_to_file(filename, lines):
 
     with open(filename, "w", encoding="utf-8") as f:
         for line in lines:
-            f.write(line+"\n")
+            f.write(line +"\n")
     
     return
+
 
 
 def clear_file(filename):
@@ -48,11 +49,18 @@ def append_to_file(filename, text):
     with open(filename, "a", encoding="utf-8") as f:
         f.write(str(text) + "\n")
 
+def write_text_to_file(filename, text):
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(str(text) + "\n")
+
 def append_from_file(dest_file, src_file):
     with open(src_file, "r", encoding="utf-8") as src:
         content = src.read()
     with open(dest_file, "a", encoding="utf-8") as dst:
         dst.write(content)
+
+
+
 
 def prompt_generator(acl_file, attribute_data_file, attribute_description_file, complete_request_file ):
    

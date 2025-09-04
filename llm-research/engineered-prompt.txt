@@ -1,3 +1,5 @@
+**READ THE ENTIRE REQUEST BEFORE GENERATING ANYTHING**
+
 The following text is a request to generate ABAC rules. The text is separated into sections. To begin the text will name the section and the purpose of the section in this request.
 
 	Prompt section:  This will be the main request we need accomplished through the query.
@@ -116,6 +118,16 @@ The following text is a request to generate ABAC rules. The text is separated in
             4. Respond only with plain text, no mark-up or other type of formatting. 
                 a. unseen values are forbidden.
             5. Read the entire request before formulating response. 
+            6. Use exactly: rule(<subCond> ; <resCond> ; <acts> ; <cons>)
+            7. Every line must be a single rule and must match this exact shape: rule(<subCond> ; <resCond> ; <acts> ; <cons>).
+                 The line MUST contain exactly three ; characters. 
+                 The third field <acts> MUST be a set like {read write}.
+                If a line has fewer/more than three semicolons, discard and regenerate before responding.
+            8. Before emitting, verify for each line:
+                line.startswith("rule(") and line.endswith(")")
+                line.count(";") == 3
+                The third field matches ^\{[^}]+\}$.”
+         
 
 
         ABAC RULES:
@@ -147,15 +159,15 @@ The following text is a request to generate ABAC rules. The text is separated in
                 a. Check all ABAC rules for redundancy, keep rules to strict minimum. 
             3. It is okay to exclude a section in an ABAC rule if the section is not needed. 
                 a. You (the LLM) may leave out a subject condition if it makes the ABAC rule more concise.
-                    1. For example: rule (; subj ] {math}; {read}; enrollment [ {active} )
+                    1. For example: rule (; <resCond> ; <acts> ; <cons>)
             4. You (the LLM) must generate the fewest amount of rules that give the same exact permissions as the ACL that was provided.
             5.Over permitting or under permitting through the ABAC rules you (the LLM) generate will be considered a failed query on your (the LLMs) behalf.
                 a. KEEP ACCESS TO A MINIMUM, DO NOT OVER GRANT OR UNDER GRANT PERMISSIONS
                 b. DO NOT GENERALIZE ACCESS KEEP IT STRICT AND MAKE IT MATCH THE ACL WE ARE PROVIDING.
             6. You (the LLM) are allowed to combine rules for actions if they should grant the same access. 
-                a. For example: rule (; subj ] {math}; {read, write, createNote}; enrollment [ {active} )
+                a. For example: rule (; subj ] {math}; {read, write, createNote}; class=class )
             7. ABAC rules do not need to dictate permit or deny as a section.
-                a. INCORRECT = rule (; subj ] {math}; {read}; enrollment [ {active}, PERMIT )
+                a. INCORRECT = rule (; subj ] {math}; {read}; class=class, PERMIT )
             8. DO NOT ADD, REMOVE, OR EDIT ATTRIBUTES. ONLY GENERATE ABAC RULES.
             9. Do not use synonyms when describing actions, stick to the action on the ACL list ONLY.
             10. REMEMBER EACH RULE MUST BE IN PARANTHESIS AND LEAD WITH THE WORD "rule"
@@ -178,17 +190,22 @@ The following text is a request to generate ABAC rules. The text is separated in
             6. Default to strictness: assume access is denied unless the ACL line explicitly allows it.
             7. Consolidate rules only after confirming they do not introduce extra permissions.
             8. Re-evaluate for redundancy: if two rules differ only in actions, merge them; if they differ in scope and one is a superset, drop the superset.
+            9. each rule should have no more and no less that 3 semi colons ; 
+                a.  less or more semi colons implies the rule is completely wrong.
+                b. again the syntax of a rule should look like this in regards to sections and how they are seperated: rule(subCond; resCond; acts; cons)
+
+            11. Do not over-permit. If a rule adds permissions not in the ACL, reject or tighten it.
+                When uncertain, under-permit (fewer permissions) instead of over-permitting.
+                Never use user ids or resource ids. Only use attributes and allowed constraints.
+                Prefer constraints: ward=ward, teams ] treatingTeam, specialties > topics, uid=author, agentFor ] patient.
+                Merge actions into one rule if subject and resource conditions are the same.
+                Eliminate redundancy: drop supersets, keep only strict rules.
+                Minimize rule count. Fewer generalized rules are always better if equivalence holds.
+                Validate: expand rules to triples and compare to ACL. Must be exact match.
+                If extra triples → tighten. If missing triples → adjust constraints without broadening.
+                Never generalize roles alone (e.g., “all doctors”). Always tie access to attribute relations.
 
 
-            Do not over-permit. If a rule adds permissions not in the ACL, reject or tighten it.
-            When uncertain, under-permit (fewer permissions) instead of over-permitting.
-            Never use user ids or resource ids. Only use attributes and allowed constraints.
-            Prefer constraints: ward=ward, teams ] treatingTeam, specialties > topics, uid=author, agentFor ] patient.
-            Merge actions into one rule if subject and resource conditions are the same.
-            Eliminate redundancy: drop supersets, keep only strict rules.
-            Minimize rule count. Fewer generalized rules are always better if equivalence holds.
-            Validate: expand rules to triples and compare to ACL. Must be exact match.
-            If extra triples → tighten. If missing triples → adjust constraints without broadening.
-            Never generalize roles alone (e.g., “all doctors”). Always tie access to attribute relations.
+
 
 

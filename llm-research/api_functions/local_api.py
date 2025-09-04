@@ -8,7 +8,7 @@ from helper_functions import read_entire_file, clear_file, prompt_generator, fil
 # # NAME SIZE
 # # 11ama3.1:70b  - 42 GB
 # # qwen3:32b     - 20 GB
-# # gpt-oss:20b   - 13 GB
+# # gpt-oss:20b   - 13 GB 
 # # qwens:0.6b    - 522 MB  #RUNNING
 
 # model = "qwen3:0.6b" 
